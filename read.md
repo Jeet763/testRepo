@@ -4,8 +4,6 @@ this message is untracked!
 changes in branch1 
 
 
-<<<<<<< HEAD
-=======
 this is to checkout if i do make any changes in the branch1 ,does it also gets reflected in the main branch as I have merged it earlier ! 
 
 
@@ -13,4 +11,3 @@ here is a new change after i got a pop up!Also I can see all the messages of mai
 
 
 this is a change in branch2 
->>>>>>> branch2
